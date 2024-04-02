@@ -8,8 +8,7 @@
 
 
 <h3> About Me</h3> 
-<h4> A highly motivated software Engineer with a Bachelor's degree in Computer Science 
-From Kafr El-Sheikh University </h4>
+<h4> Aspiring creative software engineer with a Bachelor's degree in Computer Science From Kafr El-Sheikh University. I am dedicated to the idea that the best way to produce quality project and quality customer experience is by writing maintainable, testable & extendable code. </h4>
 
 
 
