@@ -5,7 +5,7 @@
 <br/>
 
 <h3> About Me</h3> 
-<h4> Aspiring creative software engineer with a Bachelor's degree in Computer Science From Kafr El-Sheikh University. I am dedicated to the idea that the best way to produce quality project and quality customer experience. </h4>
+<h4> Aspiring creative engineer with a Bachelor's degree in Computer Science From Kafr El-Sheikh University. I am dedicated to the idea that the best way to produce quality project and quality customer experience. </h4>
 
 
 
